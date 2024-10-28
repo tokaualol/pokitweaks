@@ -2,6 +2,9 @@
 
 ![Program "GUI"](https://files.catbox.moe/i5zrn0.png)
 
+# ⚠ WARNING
+**BE CAREFUL WHEN USING THIS AS THIS CAN EASILY LEAD TO A BAN ON WHATEVER SERVER YOU CONNECT TO AS BEING IN THIS STATE IS VERY BUGGY, USE WITH CAUTION.**
+
 # About
 This abuses a [bug](https://bugs.mojang.com/browse/MC-74984) in Minecraft that allows you to send packets to your client from one server (in this case your own) to another.
 This program uses Lunar Client's support for Deep Links ``lunarclient://play`` which interacts directly with the Launcher and the user's game. 
