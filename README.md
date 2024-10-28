@@ -17,6 +17,9 @@ You need a Minecraft server in order for this to work and it isn't provided in t
 * Run the .exe and input the server IP you wish to connect to.
 * Enjoy
 
+# Showcase
+https://files.catbox.moe/f9xyhj.mp4
+
 # Help
 * **"java.net.ConnectionException"** > Is your server running?
 * **"It doesn't connect me to the server"** > Make sure the server version is on or supports the game version you are on.
